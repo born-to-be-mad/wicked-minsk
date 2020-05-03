@@ -145,6 +145,34 @@ const LAYOUT_DATA = [
                 categories: ["air", "break the circle"]
             }
         ]
+    },
+    {
+        id: 101,
+        title: "Magic rectangle #1",
+        imageUrl: "images/layouts/layout-123.jpg",
+        categories: ["symmetric", "rectangle", "anti-air", "single-inferno"],
+        attacks: []
+    },
+    {
+        id: 102,
+        title: "Magic rectangle  #2",
+        imageUrl: "images/layouts/layout-123.jpg",
+        categories: ["symmetric", "rectangle", "anti-air", "single-inferno"],
+        attacks: []
+    },
+    {
+        id: 103,
+        title: "Magic rectangle  #3",
+        imageUrl: "images/layouts/layout-123.jpg",
+        categories: ["symmetric", "rectangle", "anti-air", "single-inferno"],
+        attacks: []
+    },
+    {
+        id: 104,
+        title: "Magic rectangle  #4",
+        imageUrl: "images/layouts/layout-123.jpg",
+        categories: ["symmetric", "rectangle", "anti-air", "single-inferno"],
+        attacks: []
     }
 ];
 
