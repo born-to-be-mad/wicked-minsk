@@ -1,5 +1,6 @@
 {
   "name": "wicked-minsk",
+  "description": "How to smash different bases in Clash of Clans!",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
