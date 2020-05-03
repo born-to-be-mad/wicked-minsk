@@ -2,7 +2,7 @@ const LAYOUT_DATA = [
     {
         id: 101,
         title: "Rectangle",
-        imageUrl: "images/layouts/layout-123.jpg",
+        imageUrl: "images/layouts/layout-101.jpg",
         categories: ["multi-inferno"],
         defence: {
             queen: 70,
