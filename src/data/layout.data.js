@@ -101,7 +101,7 @@ const LAYOUT_DATA = [
         id: 345,
         title: "Hard nut to crack",
         imageUrl: "images/layouts/layout-123.jpg",
-        categories: ["symmetric", "rectangle", "anti-air", "single-inferno"],
+        categories: ["test", "hello"],
         defence: {
             queen: 70,
             king: 60,

@@ -1,7 +1,6 @@
 .card-container {
   display: flex;
   flex-direction: column;
-  width: 22vw;
   height: 350px;
   align-items: center;
   position: relative;
