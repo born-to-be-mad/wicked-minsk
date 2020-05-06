@@ -472,6 +472,75 @@ const LAYOUT_DATA = [
                 categories: [],
             }
         ]
+    },
+    {
+        id: 117,
+        title: "Base 117",
+        imageUrl: "images/layouts/layout-017.jpg",
+        categories: [],
+        defence: {},
+        attacks: [
+            {
+                id: 1171,
+                name: "Attack 1",
+                details: {
+                    videoUrl:
+                        "https://www.youtube.com/watch?v=IEn6qlS4vm8&list=PL1zrz_Vs08LTK4iLdulktEge9bVDmGfqX&",
+                    start: "8:15",
+                    end: "10:02"
+                },
+                troops: {},
+                spells: {},
+                clanCastle: {},
+                categories: [],
+            }
+        ]
+    },
+    {
+        id: 118,
+        title: "Base 118",
+        imageUrl: "images/layouts/layout-018.jpg",
+        categories: [],
+        defence: {},
+        attacks: [
+            {
+                id: 1181,
+                name: "Attack 1",
+                details: {
+                    videoUrl:
+                        "https://www.youtube.com/watch?v=QAXmKukroPk&list=PL1zrz_Vs08LTK4iLdulktEge9bVDmGfqX&index=9&t=0s",
+                    start: "4:26",
+                    end: "7:43"
+                },
+                troops: {},
+                spells: {},
+                clanCastle: {},
+                categories: [],
+            }
+        ]
+    },
+    {
+        id: 119,
+        title: "Base 119",
+        imageUrl: "images/layouts/layout-019.jpg",
+        categories: [],
+        defence: {},
+        attacks: [
+            {
+                id: 1191,
+                name: "Attack 1",
+                details: {
+                    videoUrl:
+                        "https://www.youtube.com/watch?v=QAXmKukroPk&list=PL1zrz_Vs08LTK4iLdulktEge9bVDmGfqX&index=9&t=0s",
+                    start: "7:51",
+                    end: "10:43"
+                },
+                troops: {},
+                spells: {},
+                clanCastle: {},
+                categories: [],
+            }
+        ]
     }
 ];
 export default LAYOUT_DATA;
