@@ -2,8 +2,6 @@
   text-align: center;
 }
 
-h1 {
-  font-family: 'Special Elite', cursive;
-  font-size: 72px;
-  color: #0ccac4;
+.App h1{
+  margin: 10px 0;
 }
