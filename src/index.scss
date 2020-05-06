@@ -1,0 +1,50 @@
+* {
+  --fluid-size: var(--min-font-size) * 1px + (var(--max-font-size) - var(--min-font-size)) * ((100vw - 420px) / (1200 - 420));
+}
+
+/*
+Using viewport units as the fluid size. Using clamp() we are  able to cap the values at each end making sure that the font-size won’t become too big or too small.
+*/
+h1 {
+  font-family: 'Special Elite', cursive;
+  color: #0ccac4;
+  --minFontSize: 28px;
+  --maxFontSize: 100px;
+  --scaler: 10vw;
+  font-size: clamp(var(--minFontSize), var(--scaler), var(--maxFontSize));
+}
+
+/*p {
+  --min-font-size: 16;
+  --max-font-size: 30;
+  font-size: clamp(
+                  var(--min-font-size) * 1px,
+                  var(--fluid-size),
+                  var(--max-font-size) * 1px
+  );
+}*/
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(
+                  to left,
+                  rgba(7, 27, 82, 1) 0%,
+                  rgba(0, 128, 128, 1) 100%
+  );
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  monospace;
+}
+
+body, h1, h2, h3, h4, h5, h6, ul, ol, li, p, pre, blockquote, figure, hr {
+  margin: 0;
+  padding: 0;
+}

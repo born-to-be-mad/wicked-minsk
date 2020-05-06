@@ -21,7 +21,7 @@ const LAYOUT_DATA = [
                 name: "Yeti and Witch",
                 details: {
                     videoUrl:
-                        "https://www.youtube.com/watch?v=WylJMEQ0M5k&list=PLWCehvgfrJN7h4wPWJVr9b1H7fOS9nv4W",
+                        "https://www.youtube.com/watch?v=WylJMEQ0M5k",
                     start: "0:08",
                     end: "1:50"
                 },
@@ -66,7 +66,7 @@ const LAYOUT_DATA = [
                 name: "Yeti and Witch",
                 details: {
                     videoUrl:
-                        "https://www.youtube.com/watch?v=WylJMEQ0M5k&list=PLWCehvgfrJN7h4wPWJVr9b1H7fOS9nv4W",
+                        "https://www.youtube.com/watch?v=WylJMEQ0M5k",
                     start: "1:54",
                     end: "4:00",
                 },
@@ -110,7 +110,7 @@ const LAYOUT_DATA = [
                 name: "Yeti and Witch",
                 details: {
                     videoUrl:
-                        "https://www.youtube.com/watch?v=WylJMEQ0M5k&list=PLWCehvgfrJN7h4wPWJVr9b1H7fOS9nv4W",
+                        "https://www.youtube.com/watch?v=WylJMEQ0M5k",
                     start: "4:05",
                     end: "5:47"
                 },
@@ -153,7 +153,7 @@ const LAYOUT_DATA = [
                 name: "Yeti and Witch",
                 details: {
                     videoUrl:
-                        "https://www.youtube.com/watch?v=WylJMEQ0M5k&list=PLWCehvgfrJN7h4wPWJVr9b1H7fOS9nv4W",
+                        "https://www.youtube.com/watch?v=WylJMEQ0M5k",
                     start: "5:51",
                     end: "7:37"
                 },
@@ -197,7 +197,7 @@ const LAYOUT_DATA = [
                 name: "Yeti and Hog_Rider",
                 details: {
                     videoUrl:
-                        "https://www.youtube.com/watch?v=WylJMEQ0M5k&list=PLWCehvgfrJN7h4wPWJVr9b1H7fOS9nv4W",
+                        "https://www.youtube.com/watch?v=WylJMEQ0M5k",
                     start: "7:41",
                     end: "9:39"
                 },
@@ -232,7 +232,7 @@ const LAYOUT_DATA = [
                 name: "Attack 1",
                 details: {
                     videoUrl:
-                        "https://www.youtube.com/watch?v=1QP343i4jWk&list=PL1zrz_Vs08LTK4iLdulktEge9bVDmGfqX&index=5&t=814s",
+                        "https://www.youtube.com/watch?v=1QP343i4jWk",
                     start: "1:12",
                     end: "4:10"
                 },
@@ -255,7 +255,7 @@ const LAYOUT_DATA = [
                 name: "Attack 1",
                 details: {
                     videoUrl:
-                        "https://www.youtube.com/watch?v=1QP343i4jWk&list=PL1zrz_Vs08LTK4iLdulktEge9bVDmGfqX&index=5&t=814s",
+                        "https://www.youtube.com/watch?v=1QP343i4jWk",
                     start: "4:12",
                     end: "6:28"
                 },
@@ -278,7 +278,7 @@ const LAYOUT_DATA = [
                 name: "Attack 1",
                 details: {
                     videoUrl:
-                        "https://www.youtube.com/watch?v=1QP343i4jWk&list=PL1zrz_Vs08LTK4iLdulktEge9bVDmGfqX&index=5&t=814s",
+                        "https://www.youtube.com/watch?v=1QP343i4jWk",
                     start: "6:37",
                     end: "8:37"
                 },
@@ -301,7 +301,7 @@ const LAYOUT_DATA = [
                 name: "Attack 1",
                 details: {
                     videoUrl:
-                        "https://www.youtube.com/watch?v=1QP343i4jWk&list=PL1zrz_Vs08LTK4iLdulktEge9bVDmGfqX&index=5&t=814s",
+                        "https://www.youtube.com/watch?v=1QP343i4jWk",
                     start: "8:42",
                     end: "11:12"
                 },
@@ -324,7 +324,7 @@ const LAYOUT_DATA = [
                 name: "Attack 1",
                 details: {
                     videoUrl:
-                        "https://www.youtube.com/watch?v=1QP343i4jWk&list=PL1zrz_Vs08LTK4iLdulktEge9bVDmGfqX&index=5&t=814s",
+                        "https://www.youtube.com/watch?v=1QP343i4jWk",
                     start: "11:17",
                     end: "13:21"
                 },
@@ -347,7 +347,7 @@ const LAYOUT_DATA = [
                 name: "Attack 1",
                 details: {
                     videoUrl:
-                        "https://www.youtube.com/watch?v=1QP343i4jWk&list=PL1zrz_Vs08LTK4iLdulktEge9bVDmGfqX&index=5&t=814s",
+                        "https://www.youtube.com/watch?v=1QP343i4jWk",
                     start: "13:29",
                     end: "15:55"
                 },
