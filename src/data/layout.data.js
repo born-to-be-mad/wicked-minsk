@@ -223,7 +223,7 @@ const LAYOUT_DATA = [
     {
         id: 106,
         title: "Base 106",
-        imageUrl: "images/layouts/layout-006.jpeg",
+        imageUrl: "images/layouts/layout-006.jpg",
         categories: [],
         defence: {},
         attacks: [
@@ -246,7 +246,7 @@ const LAYOUT_DATA = [
     {
         id: 107,
         title: "Base 107",
-        imageUrl: "images/layouts/layout-107.jpeg",
+        imageUrl: "images/layouts/layout-007.jpg",
         categories: [],
         defence: {},
         attacks: [
@@ -269,7 +269,7 @@ const LAYOUT_DATA = [
     {
         id: 108,
         title: "Base 108",
-        imageUrl: "images/layouts/layout-108.jpeg",
+        imageUrl: "images/layouts/layout-008.jpg",
         categories: [],
         defence: {},
         attacks: [
@@ -292,7 +292,7 @@ const LAYOUT_DATA = [
     {
         id: 109,
         title: "",
-        imageUrl: "images/layouts/layout-109.jpeg",
+        imageUrl: "images/layouts/layout-009.jpg",
         categories: [],
         defence: {},
         attacks: [
@@ -315,7 +315,7 @@ const LAYOUT_DATA = [
     {
         id: 110,
         title: "Base 110",
-        imageUrl: "images/layouts/layout-110.jpeg",
+        imageUrl: "images/layouts/layout-010.jpg",
         categories: [],
         defence: {},
         attacks: [
@@ -338,7 +338,7 @@ const LAYOUT_DATA = [
     {
         id: 111,
         title: "Base 111",
-        imageUrl: "images/layouts/layout-111.jpeg",
+        imageUrl: "images/layouts/layout-011.jpg",
         categories: [],
         defence: {},
         attacks: [
