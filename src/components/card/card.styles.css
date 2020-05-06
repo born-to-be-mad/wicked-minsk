@@ -1,8 +1,7 @@
 .card-container {
+  padding: 0.5rem;
   display: flex;
   flex-direction: column;
-  /*width: 22vw;
-  height: 350px;*/
   align-items: center;
   position: relative;
   background-color: #95dada;
@@ -18,7 +17,6 @@
 
 .card-container img {
   width: 100%;
-  /*height: 95%;*/
   background-size: cover;
   background-position: center;
   margin-bottom: 5px;
