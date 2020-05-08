@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "64c66eb0bef3313928845a330207d75c",
+    "revision": "4a74dd8349ec64b475c832ccfaa34f17",
     "url": "/wicked-minsk/index.html"
   },
   {
-    "revision": "b06d56cf8ebb29a59c21",
+    "revision": "2689d6d50a393a6a7589",
     "url": "/wicked-minsk/static/css/main.86e37ac8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wicked-minsk/static/js/2.2a73bd5d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b06d56cf8ebb29a59c21",
-    "url": "/wicked-minsk/static/js/main.1387a159.chunk.js"
+    "revision": "2689d6d50a393a6a7589",
+    "url": "/wicked-minsk/static/js/main.06ac6f51.chunk.js"
   },
   {
     "revision": "3e4cd710ce34ed55bff3",
