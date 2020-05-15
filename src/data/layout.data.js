@@ -1369,6 +1369,190 @@ const LAYOUT_DATA = [
                 categories: [],
             }
         ]
+    },
+    {
+        id: 156,
+        title: "Base 156",
+        imageUrl: "images/layouts/layout-056.jpg",
+        categories: [],
+        defence: {},
+        attacks: [
+            {
+                id: 1561,
+                name: "Attack 1",
+                details: {
+                    videoUrl:
+                        "https://www.youtube.com/watch?v=DiIXGjf3t8M",
+                    start: "1:28",
+                    end: "3:33"
+                },
+                troops: {},
+                spells: {},
+                clanCastle: {},
+                categories: [],
+            }
+        ]
+    },
+    {
+        id: 157,
+        title: "Base 157",
+        imageUrl: "images/layouts/layout-057.jpg",
+        categories: [],
+        defence: {},
+        attacks: [
+            {
+                id: 1571,
+                name: "Attack 1",
+                details: {
+                    videoUrl:
+                        "https://www.youtube.com/watch?v=DiIXGjf3t8M",
+                    start: "3:47",
+                    end: "6:03"
+                },
+                troops: {},
+                spells: {},
+                clanCastle: {},
+                categories: [],
+            }
+        ]
+    },
+    {
+        id: 158,
+        title: "Base 158",
+        imageUrl: "images/layouts/layout-058.jpg",
+        categories: [],
+        defence: {},
+        attacks: [
+            {
+                id: 1581,
+                name: "Attack 1",
+                details: {
+                    videoUrl:
+                        "https://www.youtube.com/watch?v=DiIXGjf3t8M",
+                    start: "6:05",
+                    end: "8:30"
+                },
+                troops: {},
+                spells: {},
+                clanCastle: {},
+                categories: [],
+            }
+        ]
+    },
+    {
+        id: 159,
+        title: "Base 159",
+        imageUrl: "images/layouts/layout-059.jpg",
+        categories: [],
+        defence: {},
+        attacks: [
+            {
+                id: 1591,
+                name: "Attack 1",
+                details: {
+                    videoUrl:
+                        "https://www.youtube.com/watch?v=DiIXGjf3t8M",
+                    start: "8:32",
+                    end: "11:05"
+                },
+                troops: {},
+                spells: {},
+                clanCastle: {},
+                categories: [],
+            }
+        ]
+    },
+    {
+        id: 160,
+        title: "Base 160",
+        imageUrl: "images/layouts/layout-060.jpg",
+        categories: [],
+        defence: {},
+        attacks: [
+            {
+                id: 1601,
+                name: "Attack 1",
+                details: {
+                    videoUrl:
+                        "https://www.youtube.com/watch?v=Cuc-MxkxZnw",
+                    start: "0:48",
+                    end: "3:40"
+                },
+                troops: {},
+                spells: {},
+                clanCastle: {},
+                categories: [],
+            }
+        ]
+    },
+    {
+        id: 161,
+        title: "Base 161",
+        imageUrl: "images/layouts/layout-061.jpg",
+        categories: [],
+        defence: {},
+        attacks: [
+            {
+                id: 1611,
+                name: "Attack 1",
+                details: {
+                    videoUrl:
+                        "https://www.youtube.com/watch?v=Cuc-MxkxZnw",
+                    start: "3:41",
+                    end: "6:43"
+                },
+                troops: {},
+                spells: {},
+                clanCastle: {},
+                categories: [],
+            }
+        ]
+    },
+    {
+        id: 162,
+        title: "Base 162",
+        imageUrl: "images/layouts/layout-062.jpg",
+        categories: [],
+        defence: {},
+        attacks: [
+            {
+                id: 1621,
+                name: "Attack 1",
+                details: {
+                    videoUrl:
+                        "https://www.youtube.com/watch?v=Cuc-MxkxZnw",
+                    start: "6:44",
+                    end: "9:16"
+                },
+                troops: {},
+                spells: {},
+                clanCastle: {},
+                categories: [],
+            }
+        ]
+    },
+    {
+        id: 163,
+        title: "Base 163",
+        imageUrl: "images/layouts/layout-063.jpg",
+        categories: [],
+        defence: {},
+        attacks: [
+            {
+                id: 1631,
+                name: "Attack 1",
+                details: {
+                    videoUrl:
+                        "https://www.youtube.com/watch?v=Cuc-MxkxZnw",
+                    start: "9:17",
+                    end: "11:38"
+                },
+                troops: {},
+                spells: {},
+                clanCastle: {},
+                categories: [],
+            }
+        ]
     }
 ];
 export default LAYOUT_DATA;
