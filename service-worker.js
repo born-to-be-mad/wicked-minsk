@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wicked-minsk/precache-manifest.f2e85718b8f0cea8c71448a44a1c48fa.js"
+  "/wicked-minsk/precache-manifest.415775ff16e9566ca945b5570f7971d2.js"
 );
 
 self.addEventListener('message', (event) => {
