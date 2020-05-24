@@ -1,7 +1,7 @@
 {
-  "name": "Wicked Minsk",
+  "name": "wicked-minsk",
   "description": "How to smash different bases in Clash of Clans!",
-  "version": "2020.4.0",
+  "version": "2020.4.1",
   "private": true,
   "homepage": "https://dma1979.github.io/wicked-minsk",
   "dependencies": {
