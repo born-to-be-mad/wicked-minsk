@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/wicked-minsk/static/css/main.7c1b0be0.chunk.css",
-    "main.js": "/wicked-minsk/static/js/main.47b1ff5e.chunk.js",
-    "main.js.map": "/wicked-minsk/static/js/main.47b1ff5e.chunk.js.map",
+    "main.js": "/wicked-minsk/static/js/main.07877a81.chunk.js",
+    "main.js.map": "/wicked-minsk/static/js/main.07877a81.chunk.js.map",
     "runtime-main.js": "/wicked-minsk/static/js/runtime-main.1327ae61.js",
     "runtime-main.js.map": "/wicked-minsk/static/js/runtime-main.1327ae61.js.map",
     "static/js/2.2a73bd5d.chunk.js": "/wicked-minsk/static/js/2.2a73bd5d.chunk.js",
     "static/js/2.2a73bd5d.chunk.js.map": "/wicked-minsk/static/js/2.2a73bd5d.chunk.js.map",
     "index.html": "/wicked-minsk/index.html",
-    "precache-manifest.415775ff16e9566ca945b5570f7971d2.js": "/wicked-minsk/precache-manifest.415775ff16e9566ca945b5570f7971d2.js",
+    "precache-manifest.f6f6683c9f5d036a27a8c47bdd91be8f.js": "/wicked-minsk/precache-manifest.f6f6683c9f5d036a27a8c47bdd91be8f.js",
     "service-worker.js": "/wicked-minsk/service-worker.js",
     "static/css/main.7c1b0be0.chunk.css.map": "/wicked-minsk/static/css/main.7c1b0be0.chunk.css.map",
     "static/js/2.2a73bd5d.chunk.js.LICENSE.txt": "/wicked-minsk/static/js/2.2a73bd5d.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1327ae61.js",
     "static/js/2.2a73bd5d.chunk.js",
     "static/css/main.7c1b0be0.chunk.css",
-    "static/js/main.47b1ff5e.chunk.js"
+    "static/js/main.07877a81.chunk.js"
   ]
 }
