@@ -5224,6 +5224,7 @@ const LAYOUT_DATA = [
                 categories: [],
             }
         ]
-    }
+    },
+    // append new bases here
 ];
 export default LAYOUT_DATA;
