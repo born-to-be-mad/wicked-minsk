@@ -6535,6 +6535,98 @@ const LAYOUT_DATA = [
                 categories: [],
             }
         ]
+    },
+    {
+        id: 380,
+        title: "Base 380",
+        imageUrl: "images/layouts/layout-280.jpg",
+        categories: [],
+        defence: {},
+        attacks: [
+            {
+                id: 3801,
+                name: "Attack 1",
+                details: {
+                    videoUrl:
+                        "https://www.youtube.com/watch?v=zylTUqFQ34o",
+                    start: "1:15",
+                    end: "3:38"
+                },
+                troops: {},
+                spells: {},
+                clanCastle: {},
+                categories: [],
+            }
+        ]
+    },
+    {
+        id: 381,
+        title: "Base 381",
+        imageUrl: "images/layouts/layout-281.jpg",
+        categories: [],
+        defence: {},
+        attacks: [
+            {
+                id: 3811,
+                name: "Attack 1",
+                details: {
+                    videoUrl:
+                        "https://www.youtube.com/watch?v=zylTUqFQ34o",
+                    start: "3:50",
+                    end: "5:55"
+                },
+                troops: {},
+                spells: {},
+                clanCastle: {},
+                categories: [],
+            }
+        ]
+    },
+    {
+        id: 382,
+        title: "Base 382",
+        imageUrl: "images/layouts/layout-282.jpg",
+        categories: [],
+        defence: {},
+        attacks: [
+            {
+                id: 3821,
+                name: "Attack 1",
+                details: {
+                    videoUrl:
+                        "https://www.youtube.com/watch?v=zylTUqFQ34o",
+                    start: "6:00",
+                    end: "8:17"
+                },
+                troops: {},
+                spells: {},
+                clanCastle: {},
+                categories: [],
+            }
+        ]
+    },
+    {
+        id: 383,
+        title: "Base 383",
+        imageUrl: "images/layouts/layout-283.jpg",
+        categories: [],
+        defence: {},
+        attacks: [
+            {
+                id: 3831,
+                name: "Attack 1",
+                details: {
+                    videoUrl:
+                        "https://www.youtube.com/watch?v=zylTUqFQ34o",
+                    start: "8:24",
+                    end: "11:25"
+                },
+                troops: {},
+                spells: {},
+                clanCastle: {},
+                categories: [],
+            }
+        ]
     }
 
     // append new bases here
