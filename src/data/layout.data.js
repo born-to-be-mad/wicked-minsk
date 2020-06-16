@@ -6926,6 +6926,75 @@ const LAYOUT_DATA = [
                 categories: [],
             }
         ]
+    },
+    {
+        id: 397,
+        title: "Base 397",
+        imageUrl: "images/layouts/layout-297.jpg",
+        categories: [],
+        defence: {},
+        attacks: [
+            {
+                id: 3971,
+                name: "Attack 1",
+                details: {
+                    videoUrl:
+                        "https://www.youtube.com/watch?v=6AtIlvjz9uI",
+                    start: "11:50",
+                    end: "14:25"
+                },
+                troops: {},
+                spells: {},
+                clanCastle: {},
+                categories: [],
+            }
+        ]
+    },
+    {
+        id: 398,
+        title: "Base 398",
+        imageUrl: "images/layouts/layout-298.jpg",
+        categories: [],
+        defence: {},
+        attacks: [
+            {
+                id: 3981,
+                name: "Attack 1",
+                details: {
+                    videoUrl:
+                        "https://www.youtube.com/watch?v=MfU_fpJN1Kw",
+                    start: "1:47",
+                    end: "4:27"
+                },
+                troops: {},
+                spells: {},
+                clanCastle: {},
+                categories: [],
+            }
+        ]
+    },
+    {
+        id: 399,
+        title: "Base 399",
+        imageUrl: "images/layouts/layout-299.jpg",
+        categories: [],
+        defence: {},
+        attacks: [
+            {
+                id: 3991,
+                name: "Attack 1",
+                details: {
+                    videoUrl:
+                        "https://www.youtube.com/watch?v=MfU_fpJN1Kw",
+                    start: "10:00",
+                    end: "13:53"
+                },
+                troops: {},
+                spells: {},
+                clanCastle: {},
+                categories: [],
+            }
+        ]
     }
 
     // append new bases here
