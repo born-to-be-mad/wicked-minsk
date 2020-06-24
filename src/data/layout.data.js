@@ -7004,7 +7004,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3001,
+                id: 4001,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7027,7 +7027,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3011,
+                id: 4011,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7050,7 +7050,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3021,
+                id: 4021,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7073,7 +7073,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3031,
+                id: 4031,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7096,7 +7096,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3041,
+                id: 4041,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7119,7 +7119,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3051,
+                id: 4051,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7142,7 +7142,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3061,
+                id: 4061,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7165,7 +7165,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3071,
+                id: 4071,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7188,7 +7188,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3081,
+                id: 4081,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7211,7 +7211,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3091,
+                id: 4091,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7234,7 +7234,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3101,
+                id: 4101,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7257,7 +7257,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3111,
+                id: 4111,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7280,7 +7280,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3121,
+                id: 4121,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7303,7 +7303,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3131,
+                id: 4131,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7326,7 +7326,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3141,
+                id: 4141,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7349,7 +7349,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3151,
+                id: 4151,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7372,7 +7372,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3161,
+                id: 4161,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7395,7 +7395,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3171,
+                id: 4171,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7418,7 +7418,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3181,
+                id: 4181,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7441,7 +7441,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3191,
+                id: 4191,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7464,7 +7464,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3201,
+                id: 4201,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7487,7 +7487,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3211,
+                id: 4211,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7510,7 +7510,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3221,
+                id: 4221,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7533,7 +7533,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3231,
+                id: 4231,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7556,7 +7556,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3241,
+                id: 4241,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7579,7 +7579,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3251,
+                id: 4251,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7602,7 +7602,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3261,
+                id: 4261,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7625,7 +7625,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3271,
+                id: 4271,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7648,7 +7648,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3281,
+                id: 4281,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7671,7 +7671,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3291,
+                id: 4291,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7694,7 +7694,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3301,
+                id: 4301,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7717,7 +7717,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3311,
+                id: 4311,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7740,7 +7740,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3321,
+                id: 4321,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7763,7 +7763,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3331,
+                id: 4331,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7786,7 +7786,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3341,
+                id: 4341,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7809,7 +7809,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3351,
+                id: 4351,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7832,7 +7832,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3361,
+                id: 4361,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7855,7 +7855,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3371,
+                id: 4371,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7878,7 +7878,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3381,
+                id: 4381,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7901,7 +7901,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3391,
+                id: 4391,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7924,7 +7924,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3401,
+                id: 4401,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7947,7 +7947,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3411,
+                id: 4411,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7970,7 +7970,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3421,
+                id: 4421,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -7993,7 +7993,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3431,
+                id: 4431,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -8016,7 +8016,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3441,
+                id: 4441,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -8039,7 +8039,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3451,
+                id: 4451,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -8062,7 +8062,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3461,
+                id: 4461,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -8085,7 +8085,7 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3471,
+                id: 4471,
                 name: "Attack 1",
                 details: {
                     videoUrl:
@@ -8108,13 +8108,243 @@ const LAYOUT_DATA = [
         defence: {},
         attacks: [
             {
-                id: 3481,
+                id: 4481,
                 name: "Attack 1",
                 details: {
                     videoUrl:
                         "https://www.youtube.com/watch?v=IJzDwr4_R2U",
                     start: "9:50",
                     end: "11:19"
+                },
+                troops: {},
+                spells: {},
+                clanCastle: {},
+                categories: [],
+            }
+        ]
+    },
+    {
+        id: 449,
+        title: "Base 449",
+        imageUrl: "images/layouts/layout-349.jpg",
+        categories: [],
+        defence: {},
+        attacks: [
+            {
+                id: 4491,
+                name: "Attack 1",
+                details: {
+                    videoUrl:
+                        "https://www.youtube.com/watch?v=-7_0dGemp28",
+                    start: "2:45",
+                    end: "4:21"
+                },
+                troops: {},
+                spells: {},
+                clanCastle: {},
+                categories: [],
+            }
+        ]
+    },
+    {
+        id: 450,
+        title: "Base 450",
+        imageUrl: "images/layouts/layout-350.jpg",
+        categories: [],
+        defence: {},
+        attacks: [
+            {
+                id: 4501,
+                name: "Attack 1",
+                details: {
+                    videoUrl:
+                        "https://www.youtube.com/watch?v=-7_0dGemp28",
+                    start: "4:23",
+                    end: "6:37"
+                },
+                troops: {},
+                spells: {},
+                clanCastle: {},
+                categories: [],
+            }
+        ]
+    },
+    {
+        id: 451,
+        title: "Base 451",
+        imageUrl: "images/layouts/layout-351.jpg",
+        categories: [],
+        defence: {},
+        attacks: [
+            {
+                id: 4511,
+                name: "Attack 1",
+                details: {
+                    videoUrl:
+                        "https://www.youtube.com/watch?v=-7_0dGemp28",
+                    start: "6:41",
+                    end: "8:17"
+                },
+                troops: {},
+                spells: {},
+                clanCastle: {},
+                categories: [],
+            }
+        ]
+    },
+    {
+        id: 452,
+        title: "Base 452",
+        imageUrl: "images/layouts/layout-352.jpg",
+        categories: [],
+        defence: {},
+        attacks: [
+            {
+                id: 4521,
+                name: "Attack 1",
+                details: {
+                    videoUrl:
+                        "https://www.youtube.com/watch?v=-7_0dGemp28",
+                    start: "8:20",
+                    end: "10:17"
+                },
+                troops: {},
+                spells: {},
+                clanCastle: {},
+                categories: [],
+            }
+        ]
+    },
+    {
+        id: 453,
+        title: "Base 453",
+        imageUrl: "images/layouts/layout-353.jpg",
+        categories: [],
+        defence: {},
+        attacks: [
+            {
+                id: 4531,
+                name: "Attack 1",
+                details: {
+                    videoUrl:
+                        "https://www.youtube.com/watch?v=-7_0dGemp28",
+                    start: "10:30",
+                    end: "12:38"
+                },
+                troops: {},
+                spells: {},
+                clanCastle: {},
+                categories: [],
+            }
+        ]
+    },
+    {
+        id: 454,
+        title: "Base 454",
+        imageUrl: "images/layouts/layout-354.jpg",
+        categories: [],
+        defence: {},
+        attacks: [
+            {
+                id: 4541,
+                name: "Attack 1",
+                details: {
+                    videoUrl:
+                        "https://www.youtube.com/watch?v=-7_0dGemp28",
+                    start: "12:42",
+                    end: "14:38"
+                },
+                troops: {},
+                spells: {},
+                clanCastle: {},
+                categories: [],
+            }
+        ]
+    },
+    {
+        id: 455,
+        title: "Base 455",
+        imageUrl: "images/layouts/layout-355.jpg",
+        categories: [],
+        defence: {},
+        attacks: [
+            {
+                id: 4551,
+                name: "Attack 1",
+                details: {
+                    videoUrl:
+                        "https://www.youtube.com/watch?v=-7_0dGemp28",
+                    start: "15:18",
+                    end: "17:30"
+                },
+                troops: {},
+                spells: {},
+                clanCastle: {},
+                categories: [],
+            }
+        ]
+    },
+    {
+        id: 456,
+        title: "Base 456",
+        imageUrl: "images/layouts/layout-356.jpg",
+        categories: [],
+        defence: {},
+        attacks: [
+            {
+                id: 4561,
+                name: "Attack 1",
+                details: {
+                    videoUrl:
+                        "https://www.youtube.com/watch?v=0iYES04KUUc",
+                    start: "9:20",
+                    end: "11:05"
+                },
+                troops: {},
+                spells: {},
+                clanCastle: {},
+                categories: [],
+            }
+        ]
+    },
+    {
+        id: 457,
+        title: "Base 457",
+        imageUrl: "images/layouts/layout-357.jpg",
+        categories: [],
+        defence: {},
+        attacks: [
+            {
+                id: 4571,
+                name: "Attack 1",
+                details: {
+                    videoUrl:
+                        "https://www.youtube.com/watch?v=0iYES04KUUc",
+                    start: "17:53",
+                    end: "19:38"
+                },
+                troops: {},
+                spells: {},
+                clanCastle: {},
+                categories: [],
+            }
+        ]
+    },
+    {
+        id: 458,
+        title: "Base 458",
+        imageUrl: "images/layouts/layout-358.jpg",
+        categories: [],
+        defence: {},
+        attacks: [
+            {
+                id: 4581,
+                name: "Attack 1",
+                details: {
+                    videoUrl:
+                        "https://www.youtube.com/watch?v=FWlGlzKGRgY",
+                    start: "12:12",
+                    end: "14:15"
                 },
                 troops: {},
                 spells: {},
