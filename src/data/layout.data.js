@@ -9296,7 +9296,7 @@ const LAYOUT_DATA = [
             }
         ]
     }
-
+    }
     // append new bases here
 ];
 export default LAYOUT_DATA;
